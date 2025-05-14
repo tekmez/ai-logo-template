@@ -4,7 +4,8 @@
 A sleek and modern mobile application that simulates AI-powered logo and art generation. Built with React Native and Expo, this app features a clean design, real-time status simulation, and Firebase integration. It is fully extensible and ready for real AI backend integration.
 
 ## Screenshots
-![Shot](https://github.com/user-attachments/assets/c59dc839-fd4c-4f3f-bc5c-ed7a59d0d6e2)
+![737_1x_shots_so](https://github.com/user-attachments/assets/3d57a047-3265-458f-9b56-07c0e69fa734)
+
 
 
 
